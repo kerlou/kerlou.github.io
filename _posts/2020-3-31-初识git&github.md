@@ -1,6 +1,6 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      初识git & github 				# 标题 
+title:      git & github 笔记(一) 				# 标题 
 subtitle:   第一次简单的认识 #副标题
 date:       2020-03-31 				# 时间
 author:     ker lou 						# 作者
@@ -10,9 +10,11 @@ tags:								#标签
     - git & gitthub
 ---
 
+## 初识git & github
+
 >*github 上存在许多简单项目，以及许多开源项目的源代码，可以在编程入门过程提供许多帮助，是有必要去学习的。*
 
-## git & github 的基本概述
+### git & github 的基本概述
 
 此处仅简单讲述，详细可参考 [Git 和 GitHub 基础简介](https://www.ibm.com/developerworks/cn/opensource/os-cn-git-and-github-1/index.html?ca=drs- "Git 和 GitHub 基础简介")
 
@@ -24,9 +26,9 @@ tags:								#标签
 
   Git 是一个开源的分布式版本控制系统。而 GitHub 本质上是一个代码托管平台，它提供的是基于 Git 的代码托管服务。
 
-## github 的功能及使用
+### github 的功能及使用
 
-### github 界面分析
+#### github 界面分析
 
 1.github 的主页
   在 github 中可点击左上角 loge 进入github主页，其中使用选项如图所示。
@@ -44,9 +46,9 @@ tags:								#标签
 
 ![仓库主页](https://s1.ax1x.com/2020/03/31/GQUTFx.md.png)
 
-### github 各功能分析
+#### github 各功能分析
 
-#### 仓库操作
+##### 仓库操作
 
 1.收藏（Star）
 
@@ -68,7 +70,7 @@ tags:								#标签
 
   发现代码BUG，但是目前没有成型代码，需要讨论时用。
   
-#### 对自己仓库操作
+##### 对自己仓库操作
 
 1.新建文件(Creat new file)
 
@@ -86,6 +88,6 @@ tags:								#标签
 
   克隆远程仓库到本地或者下载文件到本地
 
-#### git 使用
+##### git 使用
 
   git 内容较多，将在以后介绍。
